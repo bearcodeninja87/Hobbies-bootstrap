@@ -1,0 +1,17 @@
+.container-1 {
+    color: olive;
+    background-image: url("https://images.pexels.com/photos/2312369/pexels-photo-2312369.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    background-size: cover;
+    height: 500px;
+    text-align: center;
+}
+
+.container-1 h1 {
+    display: inline-block;
+    position: relative;
+    top: 50px;
+    background-color: rgb(152, 160, 246);
+    border-radius: 5px;
+    font-family: system-ui;
+    font-size: 3rem;
+}
